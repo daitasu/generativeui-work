@@ -1,0 +1,10 @@
+{
+  "name": "generativeui-work",
+  "private": true,
+  "scripts": {
+    "dev:a2ui": "pnpm --filter a2ui-app dev",
+    "dev:a2ui-state": "pnpm --filter a2ui-state dev",
+    "dev:json-render": "pnpm --filter json-render-app dev",
+    "dev:json-render-state": "pnpm --filter json-render-state-app dev"
+  }
+}
